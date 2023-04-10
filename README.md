@@ -11,3 +11,5 @@ Im Jahr 2023 befass(t)e ich mich intensiv mit dem Thema Mobilforensik und mobile
 # Fun Facts
 
 - Das Gerät BQ Aquaris E5 trägt den Codenamen "Vegeta". Dabei handelt es sich um einen Charakter aus der Anime-Serie Dragonball. Auch andere Geräte des Herstellers tragen Namen aus diesem Universum. 
+- Xiaomi Geräte erhalten häufig Codenamen aus der Botanik (Willow, Gingko, Dandelion, Angelica), aber auch Sternzeichen und Modemarken sind oft vertreten. (zB. Das Redmi 4X Codename Santoni)
+- Der Nachfolger des Oneplus 3/3T ist das Oneplus 5. Im chinesischen gilt die 4 als Unglückszahl, da sie in der Aussprache dem Wort "Tod" sehr ähnlich ist. 
