@@ -18,3 +18,4 @@ Im Jahr 2023 befass(t)e ich mich intensiv mit dem Thema Mobilforensik und mobile
 - Softwareversionen des finnischen SailfishOS werden nach finnischen Landstrichen, Sehenswürdigkeiten oder Errungenschaften benannt. 
 - Der Nachfolger des Oneplus 3/3T ist das Oneplus 5. Im chinesischen gilt die 4 als Unglückszahl, da sie in der Aussprache dem Wort "Tod" sehr ähnlich ist. 
 - Ubuntu Versionen tragen Namenskombinationen aus Adjektiv und Tier. Dabei handelt es sich immer um Alliterationen (z.B. Xenial Xerus) 
+- Hauptversionen von Manjaro werden nach Himmelskörpern oder Systemen der Serie Star Trek benannt. 
