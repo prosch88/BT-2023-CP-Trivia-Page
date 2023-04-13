@@ -5,7 +5,7 @@ Im Jahr 2023 befass(t)e ich mich intensiv mit dem Thema Mobilforensik und mobile
 
 # Anekdoten
 
-- Das verwendete Gerät: Xiaomi Pocophone F1 wies einen Defekt an der Hauptplatine auf. Da der Sockel des Antennenkabels abgerissen war, konnte zunächst keine mobile Internetverbimdung aufgebaut werden. Dies ist zum Entsperren des Bootloaders bei diesem Gerät jedoch erforderlich. Um überhaupt etwas zu empfangen, wurde eine Wanderung zu einem Mobilfunkmast auf einem nahe gelegenen Berg unternommen und die Entsperrung direkt neben dem Funkmasten angestoßen. 
+- Das verwendete Gerät: Xiaomi Pocophone F1 wies einen Defekt an der Hauptplatine auf. Da der Sockel des Antennenkabels abgerissen war, konnte zunächst keine mobile Internetverbindung aufgebaut werden. Dies ist zum Entsperren des Bootloaders bei diesem Gerät jedoch erforderlich. Um überhaupt etwas zu empfangen, wurde eine Wanderung zu einem Mobilfunkmast auf einem nahe gelegenen Berg unternommen und die Entsperrung direkt neben dem Funkmasten angestoßen. 
 - Motorola verkaufte Geräte der Droid-Serie außerhalb der USA unter dem Namen "Milestone". Für das Droid 4 gibt es diese Umbenennung nicht, da das Gerät nicht international vertrieben wurde. Auch das verwendete Gerät wurde aus den USA importiert. 
 - Das Lenovo A6000 erhielt keinen weiteren Codenamen. Das untersuchte Gerät wurde als defekt aus Griechenland importiert. Der Einsatz eines neuen Akkus und ein Firmwareflash über den EDL Modus konnten das Gerät wiederbeleben. Dabei befanden sich noch Daten des Vorbesitzers auf dem Gerät, welche über einen Werksreset umgehend gelöscht wurden. 
 - Einige Teile der Arbeit mussten immer wieder überarbeitet werden, weil sich die Funktionen oder die Optik der Systeme änderten. 
