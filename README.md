@@ -22,3 +22,4 @@ Im Jahr 2023 befass(t)e ich mich intensiv mit dem Thema Mobilforensik und mobile
 - Der Name Debian wurde aus den Vornamen des Projektgründers und seiner späteren Frau zusammengesetzt (Ian Murdock und Debra Lynn). 
 - Debian Versionen tragen Namen von Figuren der Toy Story Filme (z.B. Buzz oder Bookworm) 
 - der Entwickler des Tools Netcat ist nicht bekannt. Die erste Version wurde 1996 von einer Person mit dem Pseudonym "Hobbit" veröffentlicht. 
+- DIP-Schalter, wie sie beim Pinephone zur Steuerung der Gerätefunktionen genutzt werden nennt man scherzhaft auch ["Mäuseklavier"](https://de.wiktionary.org/wiki/M%C3%A4useklavier)
