@@ -13,12 +13,12 @@ Im Jahr 2023 befass(t)e ich mich intensiv mit dem Thema Mobilforensik und mobile
 
 # Fun Facts
 
-- Das Gerät BQ Aquaris E5 trägt den Codenamen "Vegeta". Dabei handelt es sich um einen Charakter aus der Anime-Serie Dragonball. Auch andere Geräte des Herstellers tragen Namen aus diesem Universum. 
+- Das Gerät BQ Aquaris E5 trägt den Codenamen "Vegeta". Dabei handelt es sich um einen Charakter aus der Anime-Serie [Dragonball](https://de.wikipedia.org/wiki/Dragon_Ball). Auch andere Geräte des Herstellers tragen Namen aus diesem Universum. 
 - Xiaomi Geräte erhalten häufig Codenamen aus der Botanik (Willow, Gingko, Dandelion, Angelica), aber auch Sternzeichen und Modemarken sind oft vertreten. (zB. Das Redmi 4X Codename Santoni)
 - Softwareversionen des finnischen SailfishOS werden nach finnischen Landstrichen, Sehenswürdigkeiten oder Errungenschaften benannt. 
 - Der Nachfolger des Oneplus 3/3T ist das Oneplus 5. Im chinesischen gilt die 4 als Unglückszahl, da sie in der Aussprache dem Wort "Tod" sehr ähnlich ist. 
 - Ubuntu Versionen tragen Namenskombinationen aus Adjektiv und Tier. Dabei handelt es sich immer um Alliterationen (z.B. Xenial Xerus) 
-- Hauptversionen von Manjaro werden nach Himmelskörpern oder Systemen der Serie Star Trek benannt. 
+- Hauptversionen von Manjaro werden nach Himmelskörpern oder Systemen der Serie [Star Trek](https://de.wikipedia.org/wiki/Star_Trek) benannt. 
 - Der Name Debian wurde aus den Vornamen des Projektgründers und seiner späteren Frau zusammengesetzt (Ian Murdock und Debra Lynn). 
 - Debian Versionen tragen Namen von Figuren der Toy Story Filme (z.B. Buzz oder Bookworm) 
 - der Entwickler des Tools Netcat ist nicht bekannt. Die erste Version wurde 1996 von einer Person mit dem Pseudonym "Hobbit" veröffentlicht. 
