@@ -10,7 +10,7 @@ Im Jahr 2023 befass(t)e ich mich intensiv mit dem Thema Mobilforensik und mobile
 - Das Lenovo A6000 erhielt keinen weiteren Codenamen. Das untersuchte Gerät wurde als defekt aus Griechenland importiert. Der Einsatz eines neuen Akkus und ein Firmwareflash über den EDL Modus konnten das Gerät wiederbeleben. Dabei befanden sich noch Daten des Vorbesitzers auf dem Gerät, welche über einen Werksreset umgehend gelöscht wurden. 
 - Einige Teile der Arbeit mussten immer wieder überarbeitet werden, weil sich die Funktionen oder die Optik der Systeme änderten. 
 - Es wurde versucht, den Großteil der Geräte auf einem aktuellen Softwarestand zu halten. Dabei kam es regelmäßig zum Ausfall von Funktionen, so dass einige Geräte immer wieder neu aufgesetzt werden mussten. Das Pinephone war davon besonders häufig betroffen. 
-- Im April 2023 wurden die Inhalte von mehr als 1100 Seiten des PostmarketOS Wikis (zum Teil mehrfach) durch zwei User mit den Namen "Doomfan345" und "Adam Lanza" gelöscht oder durch rassistische Kommentare ersetzt. 
+- Im April 2023 wurden die Inhalte von mehr als 1100 Seiten des PostmarketOS Wikis (zum Teil mehrfach) durch zwei User mit den Namen "Doomfan345" und "Adam Lanza" gelöscht oder durch rassistische Kommentare ersetzt. ["Adam Lanza"](https://de.m.wikipedia.org/wiki/Amoklauf_an_der_Sandy_Hook_Elementary_School) ist der Name eines amerikanischen Amok-Täters. 
 
 # Fun Facts
 
