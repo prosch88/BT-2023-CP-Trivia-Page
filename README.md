@@ -25,3 +25,4 @@ Im Jahr 2023 befass(t)e ich mich intensiv mit dem Thema Mobilforensik und mobile
 - der Entwickler des Tools Netcat ist nicht bekannt. Die erste Version wurde 1996 von einer Person mit dem Pseudonym "Hobbit" veröffentlicht. 
 - DIP-Schalter, wie sie beim Pinephone zur Steuerung der Gerätefunktionen genutzt werden nennt man scherzhaft auch ["Mäuseklavier"](https://de.wiktionary.org/wiki/M%C3%A4useklavier)
 - Versionen von Maemo und MeeGo werden nach Winden benannt (Harmattan, Leste, Fremantle) 
+- Manjaro verfolgte auf dem Pinephone zunächst die Praxis, möglichst früh neue Funktionen durch die Implementierung (teils noch unfertiger) neuer Pakete zu integrieren. So wurden die jeweiligen Entwickler mit Beschwerden unzufriedener User konfrontiert - die Linux Community reagierte mit der Initiative ["Do not ship it!"](https://dont-ship.it/) --> einem offenen Brief kein "Work in Progress" auszuliefern.
