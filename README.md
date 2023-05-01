@@ -10,6 +10,7 @@ Im Jahr 2023 befass(t)e ich mich intensiv mit dem Thema Mobilforensik und mobile
 - Das Lenovo A6000 erhielt keinen weiteren Codenamen. Das untersuchte Gerät wurde als defekt aus Griechenland importiert. Der Einsatz eines neuen Akkus und ein Firmwareflash über den EDL Modus konnten das Gerät wiederbeleben. Dabei befanden sich noch Daten des Vorbesitzers auf dem Gerät, welche über einen Werksreset umgehend gelöscht wurden. 
 - Einige Teile der Arbeit mussten immer wieder überarbeitet werden, weil sich die Funktionen oder die Optik der Systeme änderten. 
 - Es wurde versucht, den Großteil der Geräte auf einem aktuellen Softwarestand zu halten. Dabei kam es regelmäßig zum Ausfall von Funktionen, so dass einige Geräte immer wieder neu aufgesetzt werden mussten. Das Pinephone war davon besonders häufig betroffen. 
+- Im Oktober 2022 verstarb Wolfgang Denk. Dieser gilt als "Vater" des Bootloaders "Das U-Boot", welcher auch im Rahmen der Bootloader-Sicherungen zum Einsatz kommt. 
 - Im April 2023 wurden die Inhalte von mehr als 1100 Seiten des PostmarketOS Wikis (zum Teil mehrfach) durch zwei User mit den Namen "Doomfan345" und "Adam Lanza" gelöscht oder durch rassistische Kommentare ersetzt. ["Adam Lanza"](https://de.m.wikipedia.org/wiki/Amoklauf_an_der_Sandy_Hook_Elementary_School) ist der Name eines amerikanischen Amok-Täters. 
 
 # Fun Facts
@@ -26,4 +27,4 @@ Im Jahr 2023 befass(t)e ich mich intensiv mit dem Thema Mobilforensik und mobile
 - DIP-Schalter, wie sie beim Pinephone zur Steuerung der Gerätefunktionen genutzt werden nennt man scherzhaft auch ["Mäuseklavier"](https://de.wiktionary.org/wiki/M%C3%A4useklavier)
 - Versionen von Maemo und MeeGo werden nach Winden benannt (Harmattan, Leste, Fremantle) 
 - Manjaro verfolgte auf dem Pinephone zunächst die Praxis, möglichst früh neue Funktionen durch die Implementierung (teils noch unfertiger) neuer Pakete zu integrieren. So wurden die jeweiligen Entwickler mit Beschwerden unzufriedener User konfrontiert - die Linux Community reagierte mit der Initiative ["Do not ship it!"](https://dont-ship.it/) --> einem offenen Brief kein "Work in Progress" auszuliefern.
-- Bei der Recherche zu Recovery Sicherungen konnte kein offizielles TWRP Image für das Sony Xperia 5 gefunden werden. Entsprechende Suchen verwiesen auf das Xperia V (römisch 5). Dieses Gerät trägt den Codenamen "tsubasa" - eine Anspielung auf die Fußball-Anime- und Manga-Serie "Captain Tsubasa"(キャプテン翼). 
+- Bei der Recherche zu Recovery-Sicherungen konnte kein offizielles TWRP-Image für das Sony Xperia 5 gefunden werden. Entsprechende Suchen verwiesen auf das Xperia V (römisch 5). Dieses Gerät trägt den Codenamen "tsubasa" - eine Anspielung auf die Fußball-Anime- und Manga-Serie "Captain Tsubasa"(キャプテン翼). 
