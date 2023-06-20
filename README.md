@@ -13,6 +13,7 @@ Im Jahr 2023 befass(t)e ich mich intensiv mit dem Thema Mobilforensik und mobile
 - Im Oktober 2022 verstarb Wolfgang Denk. Dieser gilt als "Vater" des Bootloaders "Das U-Boot", welcher auch im Rahmen der Bootloader-Sicherungen zum Einsatz kommt. 
 - Im April 2023 wurden die Inhalte von mehr als 1100 Seiten des PostmarketOS Wikis (zum Teil mehrfach) durch zwei User mit den Namen "Doomfan345" und "Adam Lanza" gelöscht oder durch rassistische Kommentare ersetzt. ["Adam Lanza"](https://de.m.wikipedia.org/wiki/Amoklauf_an_der_Sandy_Hook_Elementary_School) ist der Name eines amerikanischen Amok-Täters. 
 - die Sicherung des internen Speichers des Samsung Galaxy S5 dauerte über eine SSH-Verbindung genau 20 Minuten und 55 Sekunden. Die Sicherung über ein installiertes TWRP-Image dauerte hingegen genau 55 Minuten und 20 Sekunden.
+- Am 19.06.23 wurde die schriftliche Fassung der Arbeit eingereicht. An diesem Tag wechselte das Oneplus 3T zu den offiziell unterstützten Droidian-Geräten. SSH kann nun auch auf diesem Gerät genutzt werden. 
 
 # Fun Facts
 
